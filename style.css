@@ -221,11 +221,14 @@ ul li .icon {
   margin-top: 60px;
   position: relative;
   margin-left: 250px;
-  background: #018bca;
+  background: #02a3ee;
   max-width: 100px;
   font-weight: 700;
   border-style: solid;
   border-color: rgb(0, 0, 0);
+}
+.right_side .DownloadBtn:hover {
+  background: #016999;
 }
 
 .right_side .DownloadBtn a {
